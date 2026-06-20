@@ -12,7 +12,7 @@ printf "\n\e[1;92m"
 printf "\n\e[1;92m░█▀█░█▀█░█▀▄░█▀▀░█▀▀░█▀█░█▀█"
 printf "\n\e[1;92m░█░█░█▀▀░█▀▄░█▀▀░█░░░█░█░█░█"
 printf "\n\e[1;92m░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀  \e[1;95mv1.8-BETA\n"
-printf "\n\e[1;92m   Coded by \e[1;94m@AbirHasan2005\n\n\e[1;92m"
+printf "\n\e[1;92m   Coded by \e[1;94m@Helobay\n\n\e[1;92m"
 }
 dependencies() {
 command -v git > /dev/null 2>&1 || { echo >&2 "Package GIT is not installed ... Aborting ..."; exit 1; }
